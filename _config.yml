@@ -12,6 +12,12 @@ github_username:  nzenitram
 g_analytics:
 
 # language settings
+isolang: en
+close_btn: "back"
+home_btn: "home"
+projects_btn: "Projects"
+posts_btn: "Posts"
+name_badge: "Ein Artikel von"
 
 # build settings
 markdown: kramdown
