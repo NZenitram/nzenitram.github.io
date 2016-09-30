@@ -1,5 +1,4 @@
-# My personal website
-:point_right: http://himsel.me :point_left:
+
 
 ### Checkout my blog
 You will find a number of topcs: music, piano, open data and more or less some nerd topics.  
