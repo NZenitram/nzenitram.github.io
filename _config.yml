@@ -1,0 +1,22 @@
+title: "Nicholas Martinez"
+description: "Nicholas Martinez is a software designer at the Turing School of Software and Design"
+about:
+location: "Denver, CO"
+email: nicholasmartinez@gmail.com
+baseurl: ""
+url: "nzenitram.github.io"
+twitter_username: zenitram03
+github_username:  nzenitram
+
+# google analytics tracking code, please change the value
+g_analytics:
+
+# language settings
+
+# build settings
+markdown: kramdown
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md

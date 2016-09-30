@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Martinez</title>
+    <description>Nicholas Martinez is a software designer at the Turing School of Software and Design</description>
+    <link>nzenitram.github.io/</link>
+    <atom:link href="nzenitram.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Sep 2016 19:54:01 -0600</pubDate>
+    <lastBuildDate>Thu, 29 Sep 2016 19:54:01 -0600</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Insert Title Here</title>
+        <description>
+</description>
+        <pubDate>Thu, 29 Sep 2016 15:03:00 -0600</pubDate>
+        <link>nzenitram.github.io/2016/09/29/first-post.html</link>
+        <guid isPermaLink="true">nzenitram.github.io/2016/09/29/first-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
